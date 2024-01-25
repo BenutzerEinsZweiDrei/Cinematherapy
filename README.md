@@ -1,6 +1,21 @@
 # Cinematherapy
 List of movies with therapeutic effect
 
+# Creation Workflow
+
+- results from https://thegigabrain.com/search/What%20are%20therapeutic%20movies%20for%20depression%3F
+- Ask bing to recommend movies for the following keywords
+```
+Deep positive message
+Therapeutic message
+therapeutic impact for depression
+Emotional uplifting message
+Positive Emotional Impact
+Themes of Hope and Resilience
+Authentic Portrayal of depression
+```
+- Ask bard to create a table with "therapeutic effect" and "imdb rating"
+
 # List
 
  |                Title of               |                                                Therapeutic Effect                                               | IMDb Rating |
