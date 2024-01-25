@@ -18,6 +18,12 @@ Authentic Portrayal of depression
 - use youtube.py for trailers
 - use justw.py for streaming
 
+# ToDo
+
+- cleanup table
+- Verschlagwortung der therapeutic effect
+- Gruppierung nach Schlagworten
+
 # List
 
 | Title of                                  | Therapeutic Effect                                                                                              | IMDb Rating | trailer                                     | Stream free On                                                                                        |
