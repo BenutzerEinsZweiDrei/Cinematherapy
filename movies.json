@@ -1,0 +1,597 @@
+[
+  {
+    "Title of": "Stranger Than Fiction",
+    "Therapeutic Effect": "Encourages self-discovery and embracing life's possibilities",
+    "IMDb Rating": 7.9
+  },
+  {
+    "Title of": "Whisper of the Heart",
+    "Therapeutic Effect": "Inspires creativity and pursuing one's dreams",
+    "IMDb Rating": 8.2
+  },
+  {
+    "Title of": "Only Yesterday",
+    "Therapeutic Effect": "Provides a heartwarming and introspective look at life's transitions",
+    "IMDb Rating": 8.1
+  },
+  {
+    "Title of": "Her",
+    "Therapeutic Effect": "Explores the complexities of human connection and emotions in a technological world",
+    "IMDb Rating": 8.3
+  },
+  {
+    "Title of": "Lost in Translation",
+    "Therapeutic Effect": "Delve into the themes of loneliness, identity, and finding oneself in unfamiliar places",
+    "IMDb Rating": 7.6
+  },
+  {
+    "Title of": "Lord of the Rings",
+    "Therapeutic Effect": "Offers a grand and epic adventure that inspires hope and resilience",
+    "IMDb Rating": 8.9
+  },
+  {
+    "Title of": "Swiss Army Man",
+    "Therapeutic Effect": "Delivers a poignant and unexpected story of friendship, self-acceptance, and embracing the absurd",
+    "IMDb Rating": 7.2
+  },
+  {
+    "Title of": "Manchester by the Sea",
+    "Therapeutic Effect": "Explores grief, loss, and finding strength in the face of adversity",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Adaptation",
+    "Therapeutic Effect": "Examines the creative process, self-doubt, and the pursuit of artistic fulfillment",
+    "IMDb Rating": 7.2
+  },
+  {
+    "Title of": "The Darjeeling Limited",
+    "Therapeutic Effect": "Embarks on a journey of self-reflection, healing, and sibling relationships",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "The Royal Tenenbaums",
+    "Therapeutic Effect": "Offers a quirky and dysfunctional family saga with insights into human relationships",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Garden State",
+    "Therapeutic Effect": "Explores mental health, identity, and finding solace in connection",
+    "IMDb Rating": 6.9
+  },
+  {
+    "Title of": "The Secret Life of Walter Mitty",
+    "Therapeutic Effect": "Encourages embracing imagination, pursuing life's passions, and living to the fullest",
+    "IMDb Rating": 7.4
+  },
+  {
+    "Title of": "Ikiru",
+    "Therapeutic Effect": "Celebrates life, compassion, and making a positive impact on the world",
+    "IMDb Rating": 8.2
+  },
+  {
+    "Title of": "NausicaÃ¤ of the Valley of the Wind",
+    "Therapeutic Effect": "Provides a thought-provoking and environmentally conscious story of hope and resilience",
+    "IMDb Rating": 8.1
+  },
+  {
+    "Title of": "Big Fish",
+    "Therapeutic Effect": "Explores the power of storytelling, family bonds, and embracing life's imperfections",
+    "IMDb Rating": 7.9
+  },
+  {
+    "Title of": "Intouchables",
+    "Therapeutic Effect": "Delivers a heartwarming story of friendship, overcoming prejudice, and finding joy in life's unexpected moments",
+    "IMDb Rating": 8.5
+  },
+  {
+    "Title of": "Amelie",
+    "Therapeutic Effect": "Enchants with its whimsical charm, celebration of small joys, and finding beauty in everyday life",
+    "IMDb Rating": 7.7
+  },
+  {
+    "Title of": "Marcel the Shell with Shoes On",
+    "Therapeutic Effect": "Offers a heartwarming and insightful look at life and relationships through the eyes of an inquisitive shell",
+    "IMDb Rating": 8.3
+  },
+  {
+    "Title of": "Eternal Sunshine of the Spotless Mind",
+    "Therapeutic Effect": "Explores memory, love, loss, and the complexities of human relationships",
+    "IMDb Rating": 8.4
+  },
+  {
+    "Title of": "It's a Wonderful Life",
+    "Therapeutic Effect": "Encouragement, hope, resilience",
+    "IMDb Rating": 8.7
+  },
+  {
+    "Title of": "Birdy",
+    "Therapeutic Effect": "Empathy, understanding mental illness",
+    "IMDb Rating": 7.9
+  },
+  {
+    "Title of": "Everything Everywhere All at Once",
+    "Therapeutic Effect": "Embrace the chaos of life, find joy in the mundane",
+    "IMDb Rating": 8.4
+  },
+  {
+    "Title of": "Adaptation",
+    "Therapeutic Effect": "Overcoming writer's block, embracing unexpected twists",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "Clueless",
+    "Therapeutic Effect": "Self-acceptance, finding your own path",
+    "IMDb Rating": 7.2
+  },
+  {
+    "Title of": "Clerks",
+    "Therapeutic Effect": "Relatability, finding humor in everyday life",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Juno",
+    "Therapeutic Effect": "Coming-of-age, making tough decisions",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "Taxi Driver",
+    "Therapeutic Effect": "Explore themes of isolation, alienation, and violence",
+    "IMDb Rating": 8.3
+  },
+  {
+    "Title of": "We Need to Talk About Kevin",
+    "Therapeutic Effect": "Understanding the motivations of a troubled child",
+    "IMDb Rating": 7.6
+  },
+  {
+    "Title of": "The Elephant Man",
+    "Therapeutic Effect": "Compassion, empathy for the marginalized",
+    "IMDb Rating": 8.1
+  },
+  {
+    "Title of": "Leaving Las Vegas",
+    "Therapeutic Effect": "Embracing life's challenges, finding beauty in the darkest moments",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Inside Llewyn Davis",
+    "Therapeutic Effect": "Resilience in the face of hardship, finding meaning in music",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "Welcome to the Dollhouse",
+    "Therapeutic Effect": "Understanding social awkwardness and bullying",
+    "IMDb Rating": 6.4
+  },
+  {
+    "Title of": "Joe Versus the Volcano",
+    "Therapeutic Effect": "Embracing the unknown, finding meaning in unexpected adventures",
+    "IMDb Rating": 6.7
+  },
+  {
+    "Title of": "One Hour Photo",
+    "Therapeutic Effect": "Empathy for the socially isolated, the power of human connection",
+    "IMDb Rating": 6.8
+  },
+  {
+    "Title of": "The Big Lebowski",
+    "Therapeutic Effect": "Relaxation, embracing the absurd, finding humor in everyday life",
+    "IMDb Rating": 8.1
+  },
+  {
+    "Title of": "Me and Earl and the Dying Girl",
+    "Therapeutic Effect": "Grief, loss, friendship, and finding hope in the face of adversity",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "I'm Thinking of Ending Things Melancholia",
+    "Therapeutic Effect": "Dealing with existential anxieties, understanding the complexities of relationships",
+    "IMDb Rating": 7
+  },
+  {
+    "Title of": "",
+    "Therapeutic Effect": "Coping with anxiety, depression, and the possibility of impending doom",
+    "IMDb Rating": 7.5
+  },
+  {
+    "Title of": "Kiki's Delivery Service The Whale",
+    "Therapeutic Effect": "Embracing independence, pursuing c",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "",
+    "Therapeutic Effect": "Understanding loneliness, finding connection in the midst of isolation",
+    "IMDb Rating": 6.7
+  },
+  {
+    "Title of": "Lars and the Real Girl",
+    "Therapeutic Effect": "Acceptance, embracing differences, and finding love in unexpected places",
+    "IMDb Rating": 7.1
+  },
+  {
+    "Title of": "Forgetting Sarah Marshall",
+    "Therapeutic Effect": "Healing from heartbreak, finding humor in pain",
+    "IMDb Rating": 7.6
+  },
+  {
+    "Title of": "Reign Over Me Anomalisa",
+    "Therapeutic Effect": "Trauma, 1",
+    "IMDb Rating": 7
+  },
+  {
+    "Title of": "",
+    "Therapeutic Effect": "Dealing with depression, finding beauty in the mundane",
+    "IMDb Rating": 7.2
+  },
+  {
+    "Title of": "Red Desert",
+    "Therapeutic Effect": "Isolation, alienation, and the search for meaning in life",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Three Colors: Blue",
+    "Therapeutic Effect": "Grief, loss, and the struggle to find beauty in a world that has lost its color",
+    "IMDb Rating": 7.9
+  },
+  {
+    "Title of": "Winter Light",
+    "Therapeutic Effect": "Loneliness despair and the hope of finding connection in a world that seems empty",
+    "IMDb Rating": 7.9
+  },
+  {
+    "Title of": "Man on Fire",
+    "Therapeutic Effect": "Revenge, justice, and the power of redemption",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "Prozac Nation",
+    "Therapeutic Effect": "Depression, finding hope and healing in the midst of darkness",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "Wristcutters: A Love Story",
+    "Therapeutic Effect": "Grief, loss, and finding hope in the afterlife",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "Silver Linings Playbook",
+    "Therapeutic Effect": "Mental illness, finding love and hope in the midst of challenges",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Revolutionary Road",
+    "Therapeutic Effect": "Marriage, dreams, and the struggle to find happiness in a world that doesn't seem to allow it",
+    "IMDb Rating": 7.5
+  },
+  {
+    "Title of": "Ghost World",
+    "Therapeutic Effect": "Loneliness, alienation, and the search for belonging",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "Little Miss Sunshine",
+    "Therapeutic Effect": "Family, acceptance, and the power of finding joy in the midst of challenges",
+    "IMDb Rating": 7.9
+  },
+  {
+    "Title of": "",
+    "Therapeutic Effect": "Justice, revenge, and the struggle to find peace",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "",
+    "Therapeutic Effect": "Faith, doubt, and the search for meaning in a world that seems to be losing its way",
+    "IMDb Rating": 7.7
+  },
+  {
+    "Title of": "Stay",
+    "Therapeutic Effect": "Mental illness, grief, and the search for hope in the face of darkness",
+    "IMDb Rating": 7.1
+  },
+  {
+    "Title of": "Groundhog Day",
+    "Therapeutic Effect": "Embracing repetition, finding meaning in the mundane",
+    "IMDb Rating": 8
+  },
+  {
+    "Title of": "Taste of Cherry",
+    "Therapeutic Effect": "Dealing with existentialism, finding hope in the face of death",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Oslo August 31 st",
+    "Therapeutic Effect": "Escaping from reality, finding solace in nature",
+    "IMDb Rating": 7.7
+  },
+  {
+    "Title of": "An Elephant Sitting Still",
+    "Therapeutic Effect": "Understanding the power of connection, finding meaning in life",
+    "IMDb Rating": 7.5
+  },
+  {
+    "Title of": "After Life",
+    "Therapeutic Effect": "Reconnecting with the past, finding beauty in the present",
+    "IMDb Rating": 7.9
+  },
+  {
+    "Title of": "Dead Poets Society",
+    "Therapeutic Effect": "Embracing creativity, finding the courage to follow your dreams",
+    "IMDb Rating": 8.1
+  },
+  {
+    "Title of": "The Virgin Suicides",
+    "Therapeutic Effect": "Understanding the complexities of teenage life, finding beauty in youth",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "Girl, Interrupted",
+    "Therapeutic Effect": "Overcoming mental illness, finding strength in vulnerability",
+    "IMDb Rating": 7.4
+  },
+  {
+    "Title of": "Ordinary People",
+    "Therapeutic Effect": "Dealing with grief, finding hope in the healing process",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Harold and Maude",
+    "Therapeutic Effect": "Embracing life, finding joy in the unexpected",
+    "IMDb Rating": 7
+  },
+  {
+    "Title of": "It's Such a Beautiful Day",
+    "Therapeutic Effect": "Understanding the complexities of mental illness, finding hope in the midst of darkness",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Last Life in the Universe",
+    "Therapeutic Effect": "Embracing solitude, finding meaning in the quiet moments",
+    "IMDb Rating": 7.5
+  },
+  {
+    "Title of": "The Seventh Continent",
+    "Therapeutic Effect": "Dealing with suicide, finding closure in loss",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Synecdoche, New York",
+    "Therapeutic Effect": "Confronting mortality, finding meaning in life's imperfections",
+    "IMDb Rating": 7.2
+  },
+  {
+    "Title of": "Shrek 2",
+    "Therapeutic Effect": "Finding acceptance, embracing who you are",
+    "IMDb Rating": 7.5
+  },
+  {
+    "Title of": "A Knight's Tale",
+    "Therapeutic Effect": "Following your dreams, finding courage in the face of adversity",
+    "IMDb Rating": 7.2
+  },
+  {
+    "Title of": "Rice Boy Sleeps",
+    "Therapeutic Effect": "Finding peace in the world",
+    "IMDb Rating": 7.5
+  },
+  {
+    "Title of": "American Beauty",
+    "Therapeutic Effect": "Understanding the complexities of suburban life, finding beauty in the mundane",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Fried Green Tomatoes",
+    "Therapeutic Effect": "Embracing friendship, finding strength in unlikely bonds",
+    "IMDb Rating": 7.4
+  },
+  {
+    "Title of": "Into the Wild",
+    "Therapeutic Effect": "Escaping from expectations, finding meaning in personal fulfillment",
+    "IMDb Rating": 7.9
+  },
+  {
+    "Title of": "Tilsammans",
+    "Therapeutic Effect": "Embracing community, finding happiness in simple pleasures",
+    "IMDb Rating": 7.7
+  },
+  {
+    "Title of": "Chocolat",
+    "Therapeutic Effect": "Finding joy in unexpected places, embracing the power of community",
+    "IMDb Rating": 7.2
+  },
+  {
+    "Title of": "Sommer in orange",
+    "Therapeutic Effect": "Overcoming societal expectations, finding happiness in self-acceptance",
+    "IMDb Rating": 6.9
+  },
+  {
+    "Title of": "Its Kind of a Funny Story",
+    "Therapeutic Effect": "Dealing with depression, finding hope and humor in dark times",
+    "IMDb Rating": 7.1
+  },
+  {
+    "Title of": "The Perks of Being a Wallflower",
+    "Therapeutic Effect": "Understanding the complexities of teenage life, finding solace in connection",
+    "IMDb Rating": 7.6
+  },
+  {
+    "Title of": "Inside Out",
+    "Therapeutic Effect": "Understanding emotions, finding balance in the face of life's challenges",
+    "IMDb Rating": 8.8
+  },
+  {
+    "Title of": "Silver Linings Playbook",
+    "Therapeutic Effect": "Dealing with mental illness, finding hope and love in the face of adversity",
+    "IMDb Rating": 7.7
+  },
+  {
+    "Title of": "The King's Speech",
+    "Therapeutic Effect": "Overcoming personal challenges, finding the courage to face one's fears",
+    "IMDb Rating": 7.6
+  },
+  {
+    "Title of": "The Pursuit of Happyness",
+    "Therapeutic Effect": "Embracing resilience, finding hope in the face of adversity",
+    "IMDb Rating": 7.6
+  },
+  {
+    "Title of": "Good Will Hunting",
+    "Therapeutic Effect": "Overcoming personal struggles, finding the power of self-belief",
+    "IMDb Rating": 8.3
+  },
+  {
+    "Title of": "Life of Pi",
+    "Therapeutic Effect": "Dealing with loss and trauma, finding hope and resilience in the face of adversity",
+    "IMDb Rating": 7.7
+  },
+  {
+    "Title of": "A Beautiful Mind",
+    "Therapeutic Effect": "Overcoming mental illness, finding the power of the mind",
+    "IMDb Rating": 7.5
+  },
+  {
+    "Title of": "The Soloist",
+    "Therapeutic Effect": "Finding hope and redemption, overcoming personal struggles",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "The Shawshank Redemption",
+    "Therapeutic Effect": "Finding Hope and Redemption in the face of adversity",
+    "IMDb Rating": 9.3
+  },
+  {
+    "Title of": "The Lion King Forrest Gump",
+    "Therapeutic Effect": "Facing one's fears, finding courage and growth",
+    "IMDb Rating": 8.8
+  },
+  {
+    "Title of": "",
+    "Therapeutic Effect": "Accepting oneself, finding happiness despite challenges",
+    "IMDb Rating": 7.6
+  },
+  {
+    "Title of": "The Matrix",
+    "Therapeutic Effect": "Exploring reality, finding freedom i",
+    "IMDb Rating": 8.7
+  },
+  {
+    "Title of": "The Lord of the Rings",
+    "Therapeutic Effect": "Embracing friendship, finding courage in the face of adversity",
+    "IMDb Rating": 8.9
+  },
+  {
+    "Title of": "The Truman Show",
+    "Therapeutic Effect": "Understanding the importance of authenticity, finding the courage to break free from societal expectations",
+    "IMDb Rating": 7.4
+  },
+  {
+    "Title of": "The Blind Side",
+    "Therapeutic Effect": "Embracing diversity, finding acceptance and love in unexpected places",
+    "IMDb Rating": 7.7
+  },
+  {
+    "Title of": "The",
+    "Therapeutic Effect": "Overcoming prejudice, finding friendship and",
+    "IMDb Rating": 8.1
+  },
+  {
+    "Title of": "Intouchables",
+    "Therapeutic Effect": "",
+    "IMDb Rating": ""
+  },
+  {
+    "Title of": "The Help",
+    "Therapeutic Effect": "Confronting racism, finding strength in unity and shared experiences",
+    "IMDb Rating": 8.1
+  },
+  {
+    "Title of": "The Polar Express",
+    "Therapeutic Effect": "Embracing the imagination, finding wonder and joy in the ordinary",
+    "IMDb Rating": 7.5
+  },
+  {
+    "Title of": "Get Out",
+    "Therapeutic Effect": "Confronting racism, finding strength in resistance and self-awareness",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Soul",
+    "Therapeutic Effect": "Exploring the meaning of life, finding purpose in the connections we make",
+    "IMDb Rating": 8.8
+  },
+  {
+    "Title of": "Pan's Labyrinth",
+    "Therapeutic Effect": "Confronting childhood trauma, finding hope and resilience in the face of darkness",
+    "IMDb Rating": 8.2
+  },
+  {
+    "Title of": "The Soloist",
+    "Therapeutic Effect": "Overcoming mental illness, finding hope and redemption",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "The Shawshank",
+    "Therapeutic Effect": "Finding hope and redemption in the face of adversity",
+    "IMDb Rating": 9.3
+  },
+  {
+    "Title of": "Redemption",
+    "Therapeutic Effect": "",
+    "IMDb Rating": ""
+  },
+  {
+    "Title of": "A Single Man",
+    "Therapeutic Effect": "Dealing with grief, finding solace in self-acceptance",
+    "IMDb Rating": 7.6
+  },
+  {
+    "Title of": "Synecdoche, New York",
+    "Therapeutic Effect": "Confronting mortality, finding meaning in life's imperfections",
+    "IMDb Rating": 7.2
+  },
+  {
+    "Title of": "Two Days, One Night",
+    "Therapeutic Effect": "Finding hope in the face of despair, embracing the power of human connection",
+    "IMDb Rating": 7.4
+  },
+  {
+    "Title of": "The Hours",
+    "Therapeutic Effect": "Exploring themes of love, loss, and identity, finding strength in resilience",
+    "IMDb Rating": 7.4
+  },
+  {
+    "Title of": "The Skeleton Twins",
+    "Therapeutic Effect": "Navigating the complexities of family relationships, finding forgiveness and healing",
+    "IMDb Rating": 7.4
+  },
+  {
+    "Title of": "Life is Beautiful",
+    "Therapeutic Effect": "Finding hope and humor in the darkest of times, celebrating the power of love and family",
+    "IMDb Rating": 8.6
+  },
+  {
+    "Title of": "It's a Wonderful Life",
+    "Therapeutic Effect": "Encouragement, hope, resilience",
+    "IMDb Rating": 8.7
+  },
+  {
+    "Title of": "Slumdog Millionaire",
+    "Therapeutic Effect": "Finding hope and redemption in the face of poverty and hardship",
+    "IMDb Rating": 8
+  },
+  {
+    "Title of": "The Sound of Music",
+    "Therapeutic Effect": "Overcoming adversity, finding hope and joy in music and family",
+    "IMDb Rating": 7.8
+  },
+  {
+    "Title of": "Wonder",
+    "Therapeutic Effect": "Embracing individuality, finding strength in self-acceptance",
+    "IMDb Rating": 7.3
+  },
+  {
+    "Title of": "Hidden Figures",
+    "Therapeutic Effect": "Inspiring story of women overcoming racial and gender barriers, finding success and recognition",
+    "IMDb Rating": 7.9
+  }
+]
