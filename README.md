@@ -16,6 +16,7 @@ Authentic Portrayal of depression
 ```
 - Ask bard to create a table with "therapeutic effect" and "imdb rating"
 - use youtube.py for trailers
+- use justw.py for streaming
 
 # List
 
