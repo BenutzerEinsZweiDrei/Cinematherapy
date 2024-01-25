@@ -25,31 +25,31 @@ Authentic Portrayal of depression
 
 ## Here are some good movies to watch against depression:
 
-- Stranger Than Fiction: This movie encourages self-discovery and embracing life's possibilities. (IMDb Rating: 7.9)
-- Whisper of the Heart: It inspires creativity and pursuing one's dreams. (IMDb Rating: 8.2)
-- Only Yesterday: Provides a heartwarming and introspective look at life's transitions. (IMDb Rating: 8.1)
+- Stranger Than Fiction: This movie encourages self-discovery and embracing life's possibilities. (IMDb Rating: 7.9) Streame auf https://youtu.be/NhNokljrP8g?si=Jk3XRr8SKAbqwW7y
+- Whisper of the Heart: It inspires creativity and pursuing one's dreams. (IMDb Rating: 8.2) Streame auf: Netflix 
+- Only Yesterday: Provides a heartwarming and introspective look at life's transitions. (IMDb Rating: 8.1) Streame auf: Netflix
 - Her: Explores the complexities of human connection and emotions in a technological world. (IMDb Rating: 8.3)
 - Lost in Translation: Delve into the themes of loneliness, identity, and finding oneself in unfamiliar places. (IMDb Rating: 7.6)
-- Lord of the Rings: Offers a grand and epic adventure that inspires hope and resilience. (IMDb Rating: 8.9)
+- Lord of the Rings: Offers a grand and epic adventure that inspires hope and resilience. (IMDb Rating: 8.9) Streame auf: Amazon Prime
 - Swiss Army Man: Delivers a poignant and unexpected story of friendship, self-acceptance, and embracing the absurd. (IMDb Rating: 7.2)
-- Manchester by the Sea: Explores grief, loss, and finding strength in the face of adversity. (IMDb Rating: 7.8)
-- Adaptation: Examines the creative process, self-doubt, and the pursuit of artistic fulfillment. (IMDb Rating: 7.2)
-- The Darjeeling Limited: Embarks on a journey of self-reflection, healing, and sibling relationships. (IMDb Rating: 7.3)
+- Manchester by the Sea: Explores grief, loss, and finding strength in the face of adversity. (IMDb Rating: 7.8) Streame auf: Amazon Prime
+- Adaptation: Examines the creative process, self-doubt, and the pursuit of artistic fulfillment. (IMDb Rating: 7.2) Streame auf: https://youtu.be/fYTN42dXTq0?si=zcx9m8Sdw_1K7lCV
+- The Darjeeling Limited: Embarks on a journey of self-reflection, healing, and sibling relationships. (IMDb Rating: 7.3) Streame auf: Disney
 
 These movies offer themes of hope, resilience, self-discovery, and embracing life's possibilities. They can provide emotional uplifting messages and an authentic portrayal of human experiences
 
 ## Here are some movies that have a strong impact:
 
-- Dead Poets Society: This movie explores the themes of embracing creativity and finding the courage to follow your dreams. (IMDb Rating: 8.1)
-- The Virgin Suicides: It provides an understanding of the complexities of teenage life and finding beauty in youth. (IMDb Rating: 7.3)
+- Dead Poets Society: This movie explores the themes of embracing creativity and finding the courage to follow your dreams. (IMDb Rating: 8.1) Streame auf: Disney
+- The Virgin Suicides: It provides an understanding of the complexities of teenage life and finding beauty in youth. (IMDb Rating: 7.3) Streame auf: https://youtu.be/T6AyQvNBtmU?si=vToOdUGsQpBpy_46
 - Girl, Interrupted: This film showcases the journey of overcoming mental illness and finding strength in vulnerability. (IMDb Rating: 7.4)
-- Ordinary People: It delves into the process of dealing with grief and finding hope in the healing process. (IMDb Rating: 7.8)
-- Harold and Maude: This movie embraces life and finding joy in the unexpected. (IMDb Rating: 7.0)
+- Ordinary People: It delves into the process of dealing with grief and finding hope in the healing process. (IMDb Rating: 7.8) Streame auf: Paramount+
+- Harold and Maude: This movie embraces life and finding joy in the unexpected. (IMDb Rating: 7.0) Streame auf: https://youtu.be/BLP5I2xFSwQ?si=_oWrbQlWCsLdkQu- 
 - It's Such a Beautiful Day: It explores the complexities of mental illness and finding hope in the midst of darkness. (IMDb Rating: 7.8)
-- Last Life in the Universe: This film embraces solitude and finding meaning in quiet moments. (IMDb Rating: 7.5)
+- Last Life in the Universe: This film embraces solitude and finding meaning in quiet moments. (IMDb Rating: 7.5) Streame auf: https://youtu.be/iB2kqlrC29w?si=954qvz80QOlijmkm
 - The Seventh Continent: It deals with the theme of suicide and finding closure in loss. (IMDb Rating: 7.8)
 - Synecdoche, New York: This movie confronts mortality and finding meaning in life's imperfections. (IMDb Rating: 7.2)
-- American Beauty: It provides an understanding of the complexities of suburban life and finding beauty in the mundane. (IMDb Rating: 7.8)
+- American Beauty: It provides an understanding of the complexities of suburban life and finding beauty in the mundane. (IMDb Rating: 7.8) Streame auf: Paramount+
 
 These movies tackle various emotional and psychological themes and are known for leaving a strong impact on the audience. 
 
