@@ -17,14 +17,10 @@ Authentic Portrayal of depression
 - Ask bard to create a table with "therapeutic effect" and "imdb rating"
 - use youtube.py for trailers
 - use justw.py for streaming
+- keywords with cortical.io
+- list creation with chatcsv
 
-# ToDo
-
-- cleanup table
-- Verschlagwortung der therapeutic effect
-- Gruppierung nach Schlagworten
-
-# List                                                                           |
+# List       
 
 ## acceptance
 |    | Title of               | Therapeutic Effect                                                                                |   IMDb Rating | trailer                                     | Stream free On                                                                             | keyword    |
