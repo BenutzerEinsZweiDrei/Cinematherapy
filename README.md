@@ -21,6 +21,12 @@ Authentic Portrayal of depression
 - list creation with chatcsv
 - take aways with https://vault.pash.city/
 
+# ToDo
+
+- refine justwatch search for better results
+- make use of https://github.com/IonicaBizau/json2md/ for creation of List
+- ..
+
 # Take Aways
 
 ## Here are some good movies to watch against depression:
