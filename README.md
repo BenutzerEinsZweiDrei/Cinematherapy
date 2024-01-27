@@ -24,8 +24,8 @@ Authentic Portrayal of depression
 # ToDo
 
 - refine justwatch search for better results
-- make use of https://github.com/IonicaBizau/json2md/ for creation of List
-- ..
+- use `mdutils` for create Readme.md
+- rewrite complete workflow and put it as `src` 
 
 # Take Aways
 
